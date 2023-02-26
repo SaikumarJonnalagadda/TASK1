@@ -1,7 +1,6 @@
 altair==4.2.2
 attrs==22.2.0
 blinker==1.5
-bokeh==3.0.3
 cachetools==5.3.0
 certifi==2022.12.7
 charset-normalizer==3.0.1
@@ -38,7 +37,6 @@ pyrsistent==0.19.3
 python-dateutil==2.8.2
 pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
-PyYAML==6.0
 requests==2.28.2
 rich==13.3.1
 semver==2.13.0
@@ -55,5 +53,4 @@ tzlocal==4.2
 urllib3==1.26.14
 validators==0.20.0
 watchdog==2.3.0
-xyzservices==2023.2.0
-zipp==3.15.0
+zipp==3.14.0
